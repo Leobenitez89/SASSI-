@@ -1,0 +1,50 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #f5f5dc;
+}
+
+.img {
+    text-align: center;
+    margin-top: 50px;
+}
+.img img {
+    width: 300px;
+    height: 300px;
+    border: grey 5px solid;
+    border-radius: 50%;
+}
+.img img:hover {
+    border: red 5px solid;
+}
+
+#article1 {
+    width: 80%;
+    height: 100%;
+    margin: 10%;
+}
+#article1 h1 {
+    font-size: 3rem;
+    color: #ff0000;
+}
+#article1 p {
+    font-size: 1rem;
+    color: #454242;
+}
+
+#article2 {
+    width: 80%;
+    height: 100%;
+    margin: 10%;
+}
+#article2 h2 {
+    font-size: 2rem;
+    color: #ff0000;
+}
+#article2 p {
+    font-size: 1rem;
+    color: #454242;
+}
+#article2 li {
+    font-size: 1rem;
+    color: #454242;
+}

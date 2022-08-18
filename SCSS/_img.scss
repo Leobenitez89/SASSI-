@@ -1,0 +1,13 @@
+.img {
+    text-align: center;
+    margin-top: 50px;
+    img {
+        width: 300px;
+        height: 300px;
+        border: grey 5px solid;
+        border-radius: 50%;
+        &:hover {
+            border: red 5px solid;
+        }
+    }
+}
